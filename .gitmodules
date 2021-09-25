@@ -1,0 +1,27 @@
+[submodule "X14-ESC"]
+	path = X14-ESC
+	url = https://github.com/purduerov/X14-ESC.git
+[submodule "X14-Power-Bricks"]
+	path = X14-Power-Bricks
+	url = https://github.com/purduerov/X14-Power-Bricks.git
+[submodule "X14-Pi-Shield"]
+	path = X14-Pi-Shield
+	url = https://github.com/purduerov/X14-Pi-Shield.git
+[submodule "X14-Parts-Library"]
+	path = X14-Parts-Library
+	url = https://github.com/purduerov/X14-Parts-Library.git
+[submodule "X14-Distribution"]
+	path = X14-Distribution
+	url = https://github.com/purduerov/X14-Distribution.git
+[submodule "X14-Conversion"]
+	path = X14-Conversion
+	url = https://github.com/purduerov/X14-Conversion.git
+[submodule "X14-Backplane"]
+	path = X14-Backplane
+	url = https://github.com/purduerov/X14-Backplane.git
+[submodule "X14-Embedded"]
+	path = X14-Embedded
+	url = https://github.com/purduerov/X14-Embedded.git
+[submodule "Electrical-RnD"]
+	path = Electrical-RnD
+	url = https://github.com/purduerov/Electrical-RnD.git
