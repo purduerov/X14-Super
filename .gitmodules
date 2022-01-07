@@ -25,3 +25,6 @@
 [submodule "Electrical-RnD"]
 	path = Electrical-RnD
 	url = https://github.com/purduerov/Electrical-RnD.git
+[submodule "X14-DataConversion"]
+	path = X14-DataConversion
+	url = https://github.com/purduerov/X14-DataConversion.git
